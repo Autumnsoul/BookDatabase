@@ -1,0 +1,10 @@
+"Fiction","Jane Austen","Pride and Prejudice",0
+"Science Fiction","George Orwell","1984",1
+"Fantasy","J.R.R. Tolkien","The Lord of the Rings",2
+"Mystery","Agatha Christie","And Then There Were None",3
+"Romance","Nicholas Sparks","The Notebook",4
+"Thriller","Dan Brown","The Da Vinci Code",5
+"Drama","F. Scott Fitzgerald","The Great Gatsby",6
+"Science Fiction","Philip K. Dick","Do Androids Dream of Electric Sheep?",7
+"Fantasy","J.K. Rowling","Harry Potter and the Sorcerer's Stone",8
+"Mystery","Arthur Conan Doyle","Sherlock Holmes: The Hound of the Baskervilles",9
